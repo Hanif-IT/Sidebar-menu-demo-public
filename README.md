@@ -8,8 +8,7 @@ A modern, responsive sidebar navigation component built with **HTML** and **CSS*
 - **Smooth Transitions:** Hover effects on menu items (Gallery, Shortcuts, etc.).
 
 ## 🖼️ Demo
-![Sidebar Menu](link-to-your-screenshot-here)
-https://github.com/Hanif-IT/Sidebar-menu-demo-public/main/Sidebar-Menu-demo.png
+![Futuristic Cars Sidebar](https://github.com/Hanif-IT/Sidebar-menu-demo-public/raw/main/Sidebar-Menu-demo.png)
 
 ## 🛠️ Tech Stack
 - HTML5
