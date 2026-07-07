@@ -9,7 +9,7 @@ A modern, responsive sidebar navigation component built with **HTML** and **CSS*
 
 ## 🖼️ Demo
 ![Sidebar Menu](link-to-your-screenshot-here)
-(https://github.com/Hanif-IT/Sidebar-menu-demo-public/Sidebar-Menu-demo.png)
+https://github.com/Hanif-IT/Sidebar-menu-demo-public/raw/main/Sidebar-Menu-demo.png
 
 ## 🛠️ Tech Stack
 - HTML5
